@@ -2,6 +2,7 @@ from fastapi import FastAPI
 from dotenv import load_dotenv
 import os
 
+
 # Load environment variables from .env file (ensure .env is in your root directory)
 load_dotenv()
 
@@ -19,3 +20,4 @@ app.include_router(registration_router, prefix="/registrations", tags=["Registra
 @app.get("/")
 async def root():
     return {"message": "Welcome to the Student Registration API"}
+

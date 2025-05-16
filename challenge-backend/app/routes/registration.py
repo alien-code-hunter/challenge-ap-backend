@@ -75,3 +75,4 @@ async def top_secondary_schools(session: AsyncSession = Depends(get_session)):
     data = [{"secondary_school": row[0], "count": row[1]} for row in result.all()]
     return data
 
+
