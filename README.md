@@ -6,10 +6,10 @@ Welcome to the **Backend Repository** for the Analyst Programmer Technical Chall
 
 Please fill in your details **accurately** as they appear on your CV:
 
-- **Full Name**: _e.g., John Doe_  
-- **Email Address**: _e.g., john.doe@example.com_  
-- **Phone Number**: _e.g., +264 81 234 5678_  
-- **Other Information (Optional)**: _LinkedIn, GitHub profile, etc._
+- **Full Name**: _e.g., Meduletu Tangeni Kamati_  
+- **Email Address**: _e.g., meduletu.kamati@gmail.com_  
+- **Phone Number**: _e.g., +264 81 204 865 7_  
+- **Other Information (Optional)**: _[LinkedIn](https://github.com/alien-code-hunter), GitHub profile, etc._
 
 ⚠️ **Failure to include accurate personal information will result in disqualification.**
 
